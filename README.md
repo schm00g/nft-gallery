@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# NFT Gallery
+
+App to display NFTs accross chains in a minimal UI.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
